@@ -1,12 +1,12 @@
-Skills Demonstrated
-Digital Forensic Tool Proficiency
+<h1>Skills Demonstrated</h1>
 
-Skill Name: Autopsy Forensic Analysis
-Explanation: Utilized Autopsy 4.21.0 to conduct forensic analysis on a disk image. This included setting up the case environment, selecting the data source, and configuring ingest settings to analyze the image thoroughly.
+<h2>Digital Forensic Tool Proficiency</h2>
+
+<h3>Skill Name:</h3>h Autopsy Forensic Analysis
+<h3>Explanation:</h3> Utilized Autopsy 4.21.0 to conduct forensic analysis on a disk image. This included setting up the case environment, selecting the data source, and configuring ingest settings to analyze the image thoroughly.
 Case Management and Documentation
 
-Skill Name: Case Documentation and Management
-Explanation: Managed and documented the case details, including case reference, client information, and analyst credentials. Recorded the timeline and status updates to maintain a comprehensive record of the forensic process.
+<h3>Explanation: Managed and documented the case details, including case reference, client information, and analyst credentials. Recorded the timeline and status updates to maintain a comprehensive record of the forensic process.
 Data Source Configuration
 
 Skill Name: Data Source Selection and Configuration
