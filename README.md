@@ -2,81 +2,97 @@
 
 <h2>Digital Forensic Tool Proficiency</h2>
 
-<h3>Skill Name:</h3>h Autopsy Forensic Analysis
+<h3> Autopsy Forensic Analysis</h3>
 <h3>Explanation:</h3> Utilized Autopsy 4.21.0 to conduct forensic analysis on a disk image. This included setting up the case environment, selecting the data source, and configuring ingest settings to analyze the image thoroughly.
-Case Management and Documentation
 
-<h3>Explanation: Managed and documented the case details, including case reference, client information, and analyst credentials. Recorded the timeline and status updates to maintain a comprehensive record of the forensic process.
-Data Source Configuration
+<h2>Case Management and Documentation</h2>
 
-Skill Name: Data Source Selection and Configuration
-Explanation: Selected and configured the disk image data source, including setting time zones, sector sizes, and paths for the image file. Ensured all relevant data was ingested for analysis.
-File System Analysis
+<h3>Explanation:</h3> Managed and documented the case details, including case reference, client information, and analyst credentials. Recorded the timeline and status updates to maintain a comprehensive record of the forensic process.
 
-Skill Name: File System and Partition Analysis
-Explanation: Analyzed the file system within the disk image, identifying partitions and file types. Noted the presence of multiple partitions and various file types (e.g., NTFS, FAT32, unallocated).
-Operating System Identification
+  <h2>Data Source Configuration</h2>
 
-Skill Name: Operating System Identification
-Explanation: Determined that the disk image was running Windows 10 Education. Extracted and documented OS-specific data, such as installed programs and system metadata.
-Keyword Search and Data Extraction
+<h3>Data Source Selection and Configuration</h3>
+<b>Explanation:</b> Selected and configured the disk image data source, including setting time zones, sector sizes, and paths for the image file. Ensured all relevant data was ingested for analysis.
 
-Skill Name: Keyword Search and Data Extraction
-Explanation: Performed keyword searches for specific terms (e.g., "cloudy," "murder") to locate relevant files and documents. Extracted and analyzed data related to these searches to identify potential evidence.
-File Type and Content Analysis
+<h2>File System Analysis</h2>
 
-Skill Name: File Type Analysis and Content Review
-Explanation: Analyzed files based on their extensions (e.g., images, videos, audio, archives) and reviewed document content (e.g., HTML, office files, PDFs). Identified key documents and files related to the investigation, including evidence of planned attacks.
-Deleted File Recovery
+<h3>File System and Partition Analysis</h3>
+<b>Explanation:</b> Analyzed the file system within the disk image, identifying partitions and file types. Noted the presence of multiple partitions and various file types (e.g., NTFS, FAT32, unallocated).
 
-Skill Name: Deleted File Recovery
-Explanation: Investigated deleted files within the disk image, noting the number and types of deleted files. Utilized forensic techniques to recover and analyze these deleted files.
-Metadata and Data Artifact Analysis
+<h2>Operating System Identification</h2>
 
-Skill Name: Metadata and Data Artifact Examination
-Explanation: Analyzed metadata and data artifacts, including installed programs and recent documents. Identified installed hacking tools and relevant documents that provided insights into the investigation.
-Web History and Download Analysis
+<h3>Operating System Identification</h3>
+<b>Explanation:</b> Determined that the disk image was running Windows 10 Education. Extracted and documented OS-specific data, such as installed programs and system metadata.
 
-Skill Name: Web History and Download Examination
-Explanation: Reviewed web history, downloads, and web searches to uncover additional evidence related to the investigation. Identified relevant web pages and downloads that contributed to understanding the case.
-Report Generation
+<h2>Keyword Search and Data Extraction</h2>
 
-Skill Name: Forensic Report Generation
-Explanation: Generated comprehensive reports summarizing findings from the forensic analysis. Created structured documentation that included case details, analysis results, and evidence.
-Advanced Forensic Techniques
+<h3> Keyword Search and Data Extraction</h3>
+<b>Explanation:</b> Performed keyword searches for specific terms (e.g., "cloudy," "murder") to locate relevant files and documents. Extracted and analyzed data related to these searches to identify potential evidence.
 
-Skill Name: Advanced Forensic Techniques
-Explanation: Implemented advanced forensic techniques such as file type identification, extension mismatch detection, embedded file extraction, and steganography detection. Utilized tools like ExifTool, Tesseract OCR, and Bulk Extractor to enhance the analysis process.
-Knowledge of Malware and Social Engineering
+<h2>File Type and Content Analysis</h2>
 
-Skill Name: Malware and Social Engineering Awareness
-Explanation: Demonstrated understanding of Trojan Horses and phishing as part of the investigative context. Applied knowledge of these techniques to analyze potential threats and attack vectors.
-Summary of Activities
-Case Initialization:
+<h3>File Type Analysis and Content Review</h3>
+<b>Explanation:</b> Analyzed files based on their extensions (e.g., images, videos, audio, archives) and reviewed document content (e.g., HTML, office files, PDFs). Identified key documents and files related to the investigation, including evidence of planned attacks.
+
+<h2>Deleted File Recovery</h2>
+
+<h3>Deleted File Recovery</h3>
+<b>Explanation:</b> Investigated deleted files within the disk image, noting the number and types of deleted files. Utilized forensic techniques to recover and analyze these deleted files.
+
+<h2>Metadata and Data Artifact Analysis</h2>
+
+<h3> Metadata and Data Artifact Examination</h3>
+<b>Explanation:</b> Analyzed metadata and data artifacts, including installed programs and recent documents. Identified installed hacking tools and relevant documents that provided insights into the investigation.
+
+<h2>Web History and Download Analysis</h2>
+
+<h3>Web History and Download Examination</h3>
+<b>Explanation:</b> Reviewed web history, downloads, and web searches to uncover additional evidence related to the investigation. Identified relevant web pages and downloads that contributed to understanding the case.
+
+<h2>Report Generation</h2>
+
+<h3> Forensic Report Generation</h3>
+<b>Explanation:</b> Generated comprehensive reports summarizing findings from the forensic analysis. Created structured documentation that included case details, analysis results, and evidence.
+
+<h2>Advanced Forensic Techniques</h2>
+
+<h3>Advanced Forensic Techniques</h3>
+<b>Explanation:</b> Implemented advanced forensic techniques such as file type identification, extension mismatch detection, embedded file extraction, and steganography detection. Utilized tools like ExifTool, Tesseract OCR, and Bulk Extractor to enhance the analysis process.
+
+<h2>Knowledge of Malware and Social Engineering </h2>
+
+<h3>Malware and Social Engineering Awareness</h3>
+<b>Explanation:</b> Demonstrated understanding of Trojan Horses and phishing as part of the investigative context. Applied knowledge of these techniques to analyze potential threats and attack vectors.
+
+<h2>Summary of Activities</h2>
+
+<h3>Case Initialization:</h3>
 
 Started the case on April 10, 2024, at 17:45, and set up the forensic environment using Autopsy.
-Data Source Configuration:
+
+<h3>Data Source Configuration:</h3>
 
 Configured the disk image for analysis, setting time zones, sector sizes, and ingest options.
-Image Analysis:
+
+<h3>Image Analysis:</h3>
 
 Analyzed the disk image to identify partitions, file types, and operating system details.
-Keyword and Content Analysis:
+<h3>Keyword and Content Analysis:</h3>
 
 Conducted keyword searches and reviewed file types and document contents to identify relevant evidence.
-Deleted File Examination:
+<h3>Deleted File Examination:</h3>
 
 Investigated and recovered deleted files within the disk image.
-Metadata and Data Artifacts:
+<h3>Metadata and Data Artifacts:</h3>
 
 Examined metadata, installed programs, and data artifacts to gather insights related to the case.
-Web History and Downloads:
+<h3>Web History and Downloads:</h3>
 
 Analyzed web history, downloads, and searches to uncover additional evidence.
-Report Generation:
+<h3>Report Generation:</h3>
 
 Generated detailed forensic reports documenting the findings and evidence.
-Advanced Techniques and Knowledge:
+<h3>Advanced Techniques and Knowledge:</h3>
 
 Applied advanced forensic techniques and demonstrated knowledge of malware and social engineering.
-This write-up demonstrates a thorough forensic investigation process, showcasing skills in digital forensic analysis, evidence documentation, advanced techniques, and comprehensive reporting.
+This write-up demonstrates a thorough forensic investigation process, showcasing my skills in digital forensic analysis, evidence documentation, advanced techniques, and comprehensive reporting.
